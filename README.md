@@ -1,4 +1,6 @@
-# ♟️ FIDE and Google Efficiency Chess AI Challenge ♟️
+<div align='center'>
+  <h1>♟️ FIDE and Google Efficiency Chess AI Challenge ♟️</h1>
+</div>
 
 This is a competition that attempts to use minimal resources to create an effective Chess bot.
 Rather than using a computer with a lot of computational power and resources to look through, this competition is going to have the following constraints:
