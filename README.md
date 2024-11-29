@@ -10,3 +10,7 @@ Rather than using a computer with a lot of computational power and resources to 
 - 64KiB compressed submission size limit
 * This may be later changed from Simple delay to increment (which does bank unused time)
 ** RAM constraint is not exact. Expect an update which more strongly enforces this limit.
+
+## Journey
+
+Day 1: Followed the tutorial on how to make a chess bot, I am now in complete uncharted territory for me so the next step would be to read other solutions and see how to make a better bot. Might need to look at Chessnut
