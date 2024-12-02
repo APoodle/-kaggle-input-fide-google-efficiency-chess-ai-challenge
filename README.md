@@ -14,3 +14,5 @@ Rather than using a computer with a lot of computational power and resources to 
 ## Journey
 
 Day 1: Followed the tutorial on how to make a chess bot, I am now in complete uncharted territory for me so the next step would be to read other solutions and see how to make a better bot. Might need to look at Chessnut
+
+Day 2: Followed what Kaggler Vyacheslav Bolotin did and waiting to see how well that will work out for me. Going to copy one more Kaggler tomorrow and then do research into what Chessnut really is.
